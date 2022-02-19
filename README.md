@@ -1,3 +1,3 @@
 # redes
 
-Concentrar meus estudos em redes utilizando python e java
+Concentrar meus estudos de programação para redes redes utilizando python e java
