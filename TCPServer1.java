@@ -15,7 +15,7 @@ public class TCPServer1 {
 		String capitalizedSentence;
 		
 		/*
-		 * definição da porta
+		 * definição da porta qualquer
 		 */
 		
 		int port = 4444;
